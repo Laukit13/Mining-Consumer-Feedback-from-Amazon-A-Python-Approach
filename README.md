@@ -1,4 +1,4 @@
-# Amazon Product Reviews Sentiment Analysis
+# Amazon Product Reviews Extraction and Sentiment Analysis
 
 ## Overview
 This project aims to implement advanced machine learning techniques to gain a better understanding of complex language patterns in Amazon product reviews, leading to more accurate predictions. The project involved extracting, cleaning, and analyzing a dataset of over 20,000 Amazon product reviews, performing sentiment analysis focused on specific aspects of the products, and achieving a 20% increase in model accuracy through hyperparameter tuning.
