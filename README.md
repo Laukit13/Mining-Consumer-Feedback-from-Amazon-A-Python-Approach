@@ -14,7 +14,6 @@ This project aims to implement advanced machine learning techniques to gain a be
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 Sentiment analysis of product reviews is crucial for understanding customer satisfaction and improving product quality. This project utilizes machine learning techniques to perform sentiment analysis on Amazon product reviews, focusing on specific aspects of the products. By analyzing the sentiment expressed in reviews, we can provide valuable insights to both customers and sellers.
