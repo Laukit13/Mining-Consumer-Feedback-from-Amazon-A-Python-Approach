@@ -1,0 +1,8 @@
+selenium 
+plotly.express
+seaborn
+nltk
+sklearn
+spacy
+textblob
+wordcloud
